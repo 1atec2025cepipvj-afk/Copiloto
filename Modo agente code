@@ -1,0 +1,28 @@
+# Copiloto
+Copiloto para DIO
+Certo. Modo AGENT CODE ativado.
+
+Antes de executar, vou fixar suposições mínimas para não travar:
+
+Suposições iniciais (ajustáveis):
+
+Node.js 20
+Framework: Express
+Módulos: CommonJS
+Testes: Jest
+Lint/format: ESLint + Prettier
+Banco: ainda não definido (vou manter desacoplado)
+Infra: local (sem Docker por enquanto)
+
+Se algo disso mudar, eu ajusto imediatamente.
+
+Agora, me passe o objetivo concreto (feature, bug ou refatoração).
+Exemplos do que você pode mandar:
+
+“Criar CRUD de usuários com validação”
+“Corrigir bug na rota X”
+“Adicionar autenticação JWT”
+“Organizar esse código:” + trecho
+
+Assim que você enviar, eu executo o ciclo completo:
+Descobrir → Planejar → Implementar → Verificar → Finalizar.

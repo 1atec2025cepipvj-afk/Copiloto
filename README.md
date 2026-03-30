@@ -1,2 +1,0 @@
-# Copiloto
-Copiloto para DIO
